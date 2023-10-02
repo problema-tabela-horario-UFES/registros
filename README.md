@@ -1,1 +1,54 @@
 # registros
+
+O repositório conta com os registros de progreção no entendimento e proposta da criação das tabelas horários para os casos de computação na UFES.
+
+Os trabalhos foram feitos pelos alunos Arthur Maciel e Danilo Lima, orientados pela professora Maria Claudia Boeres (Goiabeiras) e o professor Edmar Kampke (Alegre)
+
+# Atas de Reunião
+
+### 11/09
+#### Resumo
+Discussão do problema tabela horário e suas diversas modelagens. 
+Edmar contou a história dos casos na UFES.
+#### To-do
+1. Estudar sobre as restrições estabelecidas de outros estudos. 
+2. Fazer uma tabela comparativa (com as aparições indicando os artigos). 
+3. Olhar sobre a organização no github na próxima reunião
+
+### 18/09
+#### Resumo
+Apresetamos as tabelas de levantamento das restrições individualmente e as discutimos. 
+Criamos uma organização no github.
+
+#### To-do
+"1. Unificar as tabelas de levantamento de restricoes e deixar bem explicadas, visualizar nos surveys outras as referencias
+2. criar uma proposta de restrições para UFES (explorar as ja usadas e indicar novas)
+3. adicionar os trabalhos no mendeley
+4. ((EXTRA)) fazer o levantamento com relacao as heuristicas"
+
+### 25/09
+#### Resumo
+1Apresentamos as tabelas de restrições dos trabalhos analisados que foram preenchidas com mais informações, 
+apresentamos também um início de restrições que podem ser usadas para nosso caso da Ufes
+#### To-do
+1. Fazer o merge das tabelas
+2. Fazer um levantamento dos tipos de cada restrição da tabela
+3. Pensar a maneira de apresentar as restrições para os coordenadores.
+4. Entrar em contanto com a Luciana (Edmar e Cláudia), depois que a 3. estiver pronta
+5. Ajustar os artigos no mendeley
+6. ((EXTRA)) fazer o levantamento com relacao as heuristicas1
+### 02/10
+#### Resumo
+"Apresentamos o merge das tabelas, mostrando o levamentamento das restrições, adição das notinhas. Apresentamos a criação do formulário para avaliação das restrições. 
+
+*OBS. lembrar de perguntar nas entrevistas como é feito o processo de construção atualmente (se utiliza algum programa auxiliar, quem faz, como faz?)"*
+
+#### To-do
+1. Iniciar no github o relatorio passo a passo do desenvolvimento (trazer desde o inicio) 
+2.Corrigir o forms (adicionar uma seçao para dados pessoais) e corrigir para de 0-5 e adicionar exemplos e descrição das restrições), adicionar no drive e no github
+3. Buscar as matrizes de todos os cursos de computação (alegre, goiabeiras, sao mateus)
+
+### 
+#### Resumo
+#### To-do
+
