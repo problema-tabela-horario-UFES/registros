@@ -1,8 +1,20 @@
 # registros
 
-O repositório conta com os registros de progreção no entendimento e proposta da criação das tabelas horários para os casos de computação na UFES.
+O repositório conta com os registros de progressão no entendimento e proposta da criação das tabelas horários para os casos de computação na UFES.
 
 Os trabalhos foram feitos pelos alunos Arthur Maciel e Danilo Lima, orientados pela professora Maria Claudia Boeres (Goiabeiras) e o professor Edmar Kampke (Alegre)
+## Divisão
+A pasta [matrizes-curriculares] contém os registros dos curriculos, definimos as siglas:
+- PPC - Projeto Pedagógico de Curso
+- MC - Matriz Curricular
+
+- CC - Ciencia da Computação
+- EC - Engenharia da Computação
+- SI - Sistema de Informação
+
+- AL - Alegre
+- SM - São Mateus
+- VIX - Vitória
 
 # Atas de Reunião
 
