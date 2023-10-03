@@ -4,7 +4,7 @@ O repositório conta com os registros de progressão no entendimento e proposta 
 
 Os trabalhos foram feitos pelos alunos Arthur Maciel e Danilo Lima, orientados pela professora Maria Claudia Boeres (Goiabeiras) e o professor Edmar Kampke (Alegre)
 ## Divisão
-A pasta [matrizes-curriculares] contém os registros dos curriculos, definimos as siglas:
+A pasta [matrizes-curriculares](matrizes-curriculares) contém os registros dos curriculos, definimos as siglas:
 - PPC - Projeto Pedagógico de Curso
 - MC - Matriz Curricular
 
@@ -15,6 +15,17 @@ A pasta [matrizes-curriculares] contém os registros dos curriculos, definimos a
 - AL - Alegre
 - SM - São Mateus
 - VIX - Vitória
+
+## Links
+
+* [google drive](https://drive.google.com/drive/folders/12Drq0Jv8mt9e-phKMLmNfnNaRLxRpQOq?usp=drive_link
+) 
+
+* [sheets levantamento de restricoes](https://docs.google.com/spreadsheets/d/1TxKvE5Tfy_ddtX-ulsqgl2VmR8h3QQGBAN28thCgRsU/edit?usp=drive_link)
+
+* [sheets levantamento meta-heuristicas](https://docs.google.com/spreadsheets/d/1kmr_gH0fOdM2Z7gFkwq_mB8QJOT6ui_0ewCSHS_zeBE/edit?usp=drive_link)
+
+* [sheets atas de reunião](https://docs.google.com/spreadsheets/d/17JHNarbx6ZqITuA7XzEnVd4771mvH0gyhKeKgEAjl2A/edit?usp=drive_link)
 
 # Atas de Reunião
 
