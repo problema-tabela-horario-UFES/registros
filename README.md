@@ -71,6 +71,12 @@ apresentamos também um início de restrições que podem ser usadas para nosso 
 2. Corrigir o forms (adicionar uma seçao para dados pessoais) e corrigir para de 0-5 e adicionar exemplos e descrição das restrições), adicionar no drive e no github
 3. Buscar as matrizes de todos os cursos de computação (alegre, goiabeiras, sao mateus)
 
-### 
+### 09/10
 #### Resumo
+Mostramos o formulário e o github prontos e definimos as próximas etapas. 
+
 #### To-do
+1. Elaborar o texto de email para enviar aos professores (incluir o forms)
+2. (Edmar e Claudia) Revisar o texto e enviar para os professores: Rosane, Flávio, Zambom (Vix), Luciana (SM), Marcelo, Dayan, Rodrigo e Geraldo (Alegre).
+3. Estudar sobre a construção da solução na dissertação da erika (buscar o código)
+4. ((EXTRA)) fazer o levantamento com relacao as heuristicas
