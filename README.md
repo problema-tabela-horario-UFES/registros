@@ -68,24 +68,9 @@ apresentamos também um início de restrições que podem ser usadas para nosso 
 
 #### To-do
 1. Iniciar no github o relatorio passo a passo do desenvolvimento (trazer desde o inicio) 
-2.Corrigir o forms (adicionar uma seçao para dados pessoais) e corrigir para de 0-5 e adicionar exemplos e descrição das restrições), adicionar no drive e no github
+2. Corrigir o forms (adicionar uma seçao para dados pessoais) e corrigir para de 0-5 e adicionar exemplos e descrição das restrições), adicionar no drive e no github
 3. Buscar as matrizes de todos os cursos de computação (alegre, goiabeiras, sao mateus)
 
 ### 
 #### Resumo
 #### To-do
-
-## Colaboradores
-
-<table>
-    <tr>
-    <td align="center">
-    <a href:"https://github.com/daniloelima">
-        <img src:"https://avatars.githubusercontent.com/u/50208673?s=96&v=4" width="100px;"><br>>
-        <sub>
-            <b>daniloelima</b>
-        </sub>
-    </a>
-    </td>
-    </tr>
-</table>
