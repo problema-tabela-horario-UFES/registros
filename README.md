@@ -86,14 +86,6 @@ apresentamos também um início de restrições que podem ser usadas para nosso 
             <b>daniloelima</b>
         </sub>
     </a>
-
-    <a href:"https://github.com/mazinhok"> 
-        <img:"https://avatars.githubusercontent.com/u/65779790?v=4" width:"100px;">
-        <sub>
-            <b>mazinhok</b>
-        </sub>
-    </a>
-
     </td>
     </tr>
 </table>
