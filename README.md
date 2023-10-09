@@ -86,25 +86,11 @@ apresentamos também um início de restrições que podem ser usadas para nosso 
             <b>daniloelima</b>
         </sub>
     </a>
-    <td align="center">
-    <a href:"">
-        <img>
-        <sub>
-            <b></b>
-        </sub>
-    </a>
-    <td align="center">
-    <a href:"">
-        <img>
-        <sub>
-            <b></b>
-        </sub>
-    </a>
-    <td align="center">
+
     <a href:"https://github.com/mazinhok"> 
-        <img>
+        <img:"https://avatars.githubusercontent.com/u/65779790?v=4" width:"100px;">
         <sub>
-            <b></b>
+            <b>mazinhok</b>
         </sub>
     </a>
 
