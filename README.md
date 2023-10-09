@@ -75,3 +75,39 @@ apresentamos também um início de restrições que podem ser usadas para nosso 
 #### Resumo
 #### To-do
 
+## Colaboradores
+
+<table>
+    <tr>
+    <td align="center">
+    <a href:"https://github.com/daniloelima">
+        <img src:"https://avatars.githubusercontent.com/u/50208673?s=96&v=4" width="100px;"><br>>
+        <sub>
+            <b>daniloelima</b>
+        </sub>
+    </a>
+    <td align="center">
+    <a href:"">
+        <img>
+        <sub>
+            <b></b>
+        </sub>
+    </a>
+    <td align="center">
+    <a href:"">
+        <img>
+        <sub>
+            <b></b>
+        </sub>
+    </a>
+    <td align="center">
+    <a href:"https://github.com/mazinhok"> 
+        <img>
+        <sub>
+            <b></b>
+        </sub>
+    </a>
+
+    </td>
+    </tr>
+</table>
