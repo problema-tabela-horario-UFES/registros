@@ -27,7 +27,9 @@ A pasta [matrizes-curriculares](matrizes-curriculares) contém os registros dos 
 
 * [sheets atas de reunião](https://docs.google.com/spreadsheets/d/17JHNarbx6ZqITuA7XzEnVd4771mvH0gyhKeKgEAjl2A/edit?usp=drive_link)
   
-* [codigo erika](https://bitbucket.org/erikasegatto/timetabling-cb-ctt/src/master/)
+* [GRASP - codigo erika](https://bitbucket.org/erikasegatto/timetabling-cb-ctt/src/master/)
+
+* [GRASP - codigo walace](https://github.com/walacesrocha/Timetabling)
 
 # Atas de Reunião
 
@@ -82,3 +84,10 @@ Mostramos o formulário e o github prontos e definimos as próximas etapas.
 2. (Edmar e Claudia) Revisar o texto e enviar para os professores: Rosane, Flávio, Zambom (Vix), Luciana (SM), Marcelo, Dayan, Rodrigo e Geraldo (Alegre).
 3. Estudar sobre a construção da solução na dissertação da erika (buscar o código)
 4. ((EXTRA)) fazer o levantamento com relacao as heuristicas
+
+### 23/10
+#### Resumo
+
+obs. reuniao do dia 16 cancelada por...
+
+#### To-do
