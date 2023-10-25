@@ -87,7 +87,10 @@ Mostramos o formulário e o github prontos e definimos as próximas etapas.
 
 ### 23/10
 #### Resumo
-
-obs. reuniao do dia 16 cancelada por...
+Enviamos o formulário sobre as restrições para o e-mail dos professores (Goiabeiras: Rosane, Zambon e Flavio; Sao Mateus: Luciana; Alegre: Dayan. Marcelo, Geraldo, Rodrigo).
+Enviamos e-mail individual para a Luciana, perguntando sobre a coordenação atual de São Mateus e pedindo para indicar outros professores para auxiliar
 
 #### To-do
+1. Baixar e rodar o código da Erika verificando se a saida está como o esperado
+2. Compreender o funcionamento do código (dica: ler capítulo 7 da dissertação da Erika)
+3. Demais tarefas Extras definidas anteriormente
