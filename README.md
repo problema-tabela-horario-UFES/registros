@@ -94,3 +94,22 @@ Enviamos e-mail individual para a Luciana, perguntando sobre a coordenação atu
 1. Baixar e rodar o código da Erika verificando se a saida está como o esperado
 2. Compreender o funcionamento do código (dica: ler capítulo 7 da dissertação da Erika)
 3. Demais tarefas Extras definidas anteriormente
+
+### 13/11
+#### Resumo
+Fizemos uma revisão geral com o retorno da professora Claudia, apontando e discutindo sobre alguns pontos das respostas do formulário. Trouxemos como proposta para criar as instâncias uma formatação que separe por campi (vitoria, alegre, sao mateus) e por periodo impar(materias do 1,3,5,7,9 periodos)/par(materias do 2,4,6,8 periodos) , assim criariamos 7 instancias:
+
+* toy
+* ale-impar
+* ale-par
+* sm-impar
+* sm-par
+* vix-impar
+* vix-par
+
+#### To-do
+1. Criar um roteiro para realizar entrevistas (definir os topicos)
+2. Tentar marcar e realizar entrevistas com os professores (definir os horarios disponiveis entre os alunos)
+3. Fazer um resumo das respostas dos formulários (verificar planilha) e registrar as decisões de alteração
+4. Começar a elaborar como serão nossas instancias, criar uma instancia toy base, anotar quais as diferenças faremos com relação ao ITC 
+5. 
