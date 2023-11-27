@@ -115,3 +115,13 @@ Fizemos uma revisão geral com o retorno da professora Claudia, apontando e disc
 3. Fazer um resumo das respostas dos formulários (verificar planilha) e registrar as decisões de alteração
 4. Começar a elaborar como serão nossas instancias, criar uma instancia toy base, anotar quais as diferenças faremos com relação ao ITC 
 5. 
+
+### 27/11
+#### Resumo
+
+#### To-do
+1. Realizar as reuniões que conseguir marcar e trazer as observações anotadas
+2. Ir adaptando a instancia TOY da ufes
+3. Estudar os algoritmos construtivos (Arthur), explicar a construção criada no trabalho do LNS (Danilo)
+4. Estudar as grades curriculares (Verificar quais e quantas disciplinas usam os laboratorios)
+
