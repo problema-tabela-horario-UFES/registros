@@ -31,6 +31,8 @@ A pasta [matrizes-curriculares](matrizes-curriculares) contém os registros dos 
 
 * [GRASP - codigo walace](https://github.com/walacesrocha/Timetabling)
 
+* [Toy comparative](https://docs.google.com/document/d/1BVEhoAVFfhL6kZLvTfYOciLUZN-4p5TR-_LpIsmrc1Q/edit?usp=sharing) 
+
 # Atas de Reunião
 
 ### 11/09
