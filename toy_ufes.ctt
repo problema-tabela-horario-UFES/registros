@@ -1,16 +1,17 @@
-Name: Toy
+Name: Toy_UFES
 Courses: 4  
 Rooms: 3
 Days: 5
-Periods_per_day: 4
-Curricula: 2  
+Periods_per_day: 12
+Curricula: 2
+Fixed_classes: 2 
 Constraints: 8 
 
 COURSES:
-SceCosC Ocra 3 3 30			
-ArcTec Indaco 4 3 42
-TecCos Rosa 3 4 40
-Geotec Scarlatti 3 4 18 
+SceCosC 1 Ocra 3 3 30			
+ArcTec 1 Indaco 4 3 42
+TecCos 2 Rosa Scarlatti 3 4 40
+Geotec 1 Scarlatti 3 4 18 
 
 ROOMS:
 rA 32
@@ -18,8 +19,12 @@ rB 50
 rC 40
 
 CURRICULA:
-Cur1 3 SceCosC ArcTec TecCos    
-Cur2 2 TecCos Geotec
+Cur1 Mat 3 SceCosC ArcTec TecCos    
+Cur2 Vesp 2 TecCos Geotec
+
+FIXED_CLASSES:
+Geotec 0 1
+Geotec 2 1
 
 UNAVAILABILITY_CONSTRAINTS:
 TecCos 2 0		
