@@ -136,4 +136,4 @@ Fizemos uma revisão geral com o retorno da professora Claudia, apontando e disc
 5. Definir a modelagem do problema (criar instancias)
 6. Estudo do código da erika: metodos de construção, as estruturas de dados, etc...
 7. Começar os primeiros passos da implementação
-
+8. Pegar os registros das tabelas usadas na prática
