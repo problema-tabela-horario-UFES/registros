@@ -125,3 +125,15 @@ Fizemos uma revisão geral com o retorno da professora Claudia, apontando e disc
 3. Estudar os algoritmos construtivos (Arthur), explicar a construção criada no trabalho do LNS (Danilo)
 4. Estudar as grades curriculares (Verificar quais e quantas disciplinas usam os laboratorios)
 
+
+### 18/12
+#### Resumo
+
+#### To-do
+1. Em janeiro: ver sobre a plataforma Parsefal para bibliografia (Maria Claudia)
+2. Terminar as entrevistas e fazer uma transcrição e resumo de todas, com uma forma de apresentar
+4. Fazer um documento bem elaborado sobre as restrições (justificada com as entrevistas)
+5. Definir a modelagem do problema (criar instancias)
+6. Estudo do código da erika: metodos de construção, as estruturas de dados, etc...
+7. Começar os primeiros passos da implementação
+
