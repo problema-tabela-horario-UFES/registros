@@ -134,6 +134,7 @@ Fizemos uma revisão geral com o retorno da professora Claudia, apontando e disc
 2. Terminar as entrevistas e fazer uma transcrição e resumo de todas, com uma forma de apresentar
 4. Fazer um documento bem elaborado sobre as restrições (justificada com as entrevistas)
 5. Definir a modelagem do problema (criar instancias)
-6. Estudo do código da erika: metodos de construção, as estruturas de dados, etc...
-7. Começar os primeiros passos da implementação
-8. Pegar os registros das tabelas usadas na prática
+6. Definir o peso para as restrições fracas
+7. Estudo do código da erika: metodos de construção, as estruturas de dados, etc...
+8. Começar os primeiros passos da implementação
+9. Pegar os registros das tabelas usadas na prática
